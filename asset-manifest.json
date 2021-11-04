@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_chuck_norris/static/css/main.722759f3.chunk.css",
+    "main.css": "/react_chuck_norris/static/css/main.80a0abb7.chunk.css",
     "main.js": "/react_chuck_norris/static/js/main.ae535ce7.chunk.js",
     "main.js.map": "/react_chuck_norris/static/js/main.ae535ce7.chunk.js.map",
     "runtime-main.js": "/react_chuck_norris/static/js/runtime-main.916f8a36.js",
@@ -8,14 +8,14 @@
     "static/js/2.12694be5.chunk.js": "/react_chuck_norris/static/js/2.12694be5.chunk.js",
     "static/js/2.12694be5.chunk.js.map": "/react_chuck_norris/static/js/2.12694be5.chunk.js.map",
     "index.html": "/react_chuck_norris/index.html",
-    "static/css/main.722759f3.chunk.css.map": "/react_chuck_norris/static/css/main.722759f3.chunk.css.map",
+    "static/css/main.80a0abb7.chunk.css.map": "/react_chuck_norris/static/css/main.80a0abb7.chunk.css.map",
     "static/js/2.12694be5.chunk.js.LICENSE.txt": "/react_chuck_norris/static/js/2.12694be5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react_chuck_norris/static/media/norris.89732c7d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.916f8a36.js",
     "static/js/2.12694be5.chunk.js",
-    "static/css/main.722759f3.chunk.css",
+    "static/css/main.80a0abb7.chunk.css",
     "static/js/main.ae535ce7.chunk.js"
   ]
 }
